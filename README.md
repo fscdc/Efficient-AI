@@ -3,6 +3,10 @@ There is a summary repo for collecting awesome **Efficient AI** papers. If you w
 
 ## Efficient LLM
 
+### Survey
+-   Efficient Large Language Models: A Survey, [Arxiv](https://arxiv.org/abs/2312.03863), [Github repo](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey)
+
+
 
 ## Books & Courses
 
