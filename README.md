@@ -10,7 +10,7 @@ There is a summary repo for collecting awesome **Efficient AI** papers. If you w
 
 ## Books & Courses
 
--   [TinyML and Efficient Deep Learning](https://efficientml.ai/) @MIT by Prof. Song Han
+-   [TinyML and Efficient Deep Learning](https://efficientml.ai/) @MIT by Prof. Song Han (I may update some my learning notes later on my [homepage](https://fscdc.github.io/))
 
 ## Lightweight DNN Engines/APIs
 
